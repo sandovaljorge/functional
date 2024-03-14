@@ -1,0 +1,11 @@
+Este capitulo introduce la programacion de aplicaciones en Java.
+Comenzamos con ejmplos de programas que muestren (impriman)
+mensajes en la pantalla. Luego presentamos un programa que
+obtiene (recibe) dos numeros de un usuario, calcula
+su suma y despliega el resultado. El lector aprenderá a 
+instruir a la computadora para que realice calculos aritmeticos
+y guarde sus resultados para un uso posterior. El ultimo ejemplo
+demuestra como tomar decisiones. La aplicacion
+compara dos numeros, despues muestra mensajes que indican
+los resultados de la comparacion. Usará las herramientas de la linea de
+comandos del JDK para compilar y ejecutar los programas de este capitulo.
